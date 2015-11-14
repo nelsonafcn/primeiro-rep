@@ -1,0 +1,10 @@
+1º - CONFIGURAR NOME DE USUÁRIO E EMAIL
+	git config --global user.name "Nelson Candido"
+	git config --global user.email nelson_afcn@hotmail.com
+2º - VERIFICAR SE TÁ OK
+	git config user.name
+
+3º - AJUDA NO GIT
+	git help <command>
+
+4º - 
